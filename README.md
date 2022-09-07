@@ -1,1 +1,1 @@
-# Flat-Management-Sysrtem
+This is our 4th semester database project .This project deals with flat for rent .It provide renter easily find flats according to his needs.On the flip side flat owner can maintain his flats and booked /cancel request of renter.
